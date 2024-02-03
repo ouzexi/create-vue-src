@@ -1,0 +1,13 @@
+{
+  "name": "create-vue-src",
+  "version": "0.0.1",
+  "description": "A cli to create a vue-source-study template",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "create-vue-src": "dist/index.js"
+  },
+  "keywords": ["Vue", "source", "study", "cli", "template"],
+  "author": "ouzexi",
+  "license": "MIT"
+}
